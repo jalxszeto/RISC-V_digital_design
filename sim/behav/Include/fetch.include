@@ -1,0 +1,2 @@
+../../src/verilog/cpu/fetch.sv
+../../src/verilog/tb_fetch.sv

@@ -1,0 +1,12 @@
+../../src/verilog/CF_SRAM_1024x32.tt_180V_25C.v
+../../src/verilog/cpu/cpu_pkg.sv
+../../src/verilog/memory_controller.sv
+../../src/verilog/sram_wrapper.sv
+../../src/verilog/cpu/reg_file.sv
+../../src/verilog/cpu/fetch.sv
+../../src/verilog/cpu/decode.sv
+../../src/verilog/cpu/execute.sv
+../../src/verilog/cpu/cpu_top.sv
+../../src/verilog/chip_top.sv
+../../src/verilog/tb_processor.sv
+
